@@ -8,10 +8,10 @@
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
 </p>
 
-- 🔭 I’m currently working on [EventKick](gachezra.github.io/event)
-- 🌱 I’m currently learning [React](react.dev) and [Node.js](nodejs.org)
+- 🔭 I’m currently working on [EventKick](https://www.github.com/gachezra/event) and its improvement[EventKick V2.0](https://www.github.com/gachezra/EventKick)
+- 🌱 I’m currently learning [React](https://www.react.dev) and [Node.js](https://www.nodejs.org)
 - 💬 Ask me about **PHP**, **JavaScript**, **Android Studio**, **GitHub** and **WebDevelopment**
-- 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [Call me](+254727684727)
+- 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [Text me](https://wa.me/254727684727)
 - ⚡ Fun fact: I'm starting a **hosting** company
 
 
