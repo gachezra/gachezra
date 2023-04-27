@@ -21,11 +21,11 @@
 <a href="https://www.linkedin.com/in/ezra-kipkoech-96112a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ezra kipkoech" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">One more thing</h3>
-Scan me 😌
-<a href="gachezra.github.io/port-folio" target="_blank" rel="noreferrer">
+<h3 align="left">One more thing:</h3>
+<a href="https://www.gachezra.github.io/port-folio" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/71008423/234959536-7ed3af35-7f54-4f39-9f33-f1d9be3b6ee1.png" width="150" height="150"/>
-<a/>
+<a/><br>
+Scan me 😌
 
 <h3 align="left">Languages and Tools:</h3>
 
