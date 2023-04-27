@@ -21,6 +21,11 @@
 <a href="https://www.linkedin.com/in/ezra-kipkoech-96112a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ezra kipkoech" height="40" width="40" /></a>
 </p>
 
+<h3 align="left">One more thing</h3>
+Scan me 😌
+<a href="gachezra.github.io/port-folio" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/71008423/234959536-7ed3af35-7f54-4f39-9f33-f1d9be3b6ee1.png" width="150" height="150"/>
+<a/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -47,7 +52,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 <a href="nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/640px-Node.js_logo_2015.svg.png" alt="Node.js" width="100" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/640px-Node.js_logo_2015.svg.png" alt="Node.js" width="110" height="40"/>
 </a>
 <a href="react.dev/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React" width="40" height="40"/>
