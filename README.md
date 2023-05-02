@@ -3,7 +3,7 @@
   <a href="https://github.com/gachezra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" /></a>
 </p>
-<img width="300" align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"/>
+<img width="300" align="right" src="https://tenor.com/bqrUA.gif"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
 </p>
