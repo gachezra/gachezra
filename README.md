@@ -61,7 +61,7 @@ Scan me 😌
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
 </a>
   
-<img src="https://tenor.com/bRPBh.gif" width="50%"/>
+<img width="300" src="https://tenor.com/view/coding-gif-25183725" alt="gachezra" />
   
 <h3>🔥 Streak Stats</h3>
   <p>
