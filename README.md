@@ -3,7 +3,7 @@
   <a href="https://github.com/gachezra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" /></a>
 </p>
-<img width="300" align="right" src="https://tenor.com/bqrUA.gif"/>
+<img width="250" align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
 </p>
@@ -28,7 +28,7 @@
 Scan me 😌
 
 <h3 align="left">Languages and Tools:</h3>
-
+  
 <p align="left">
 <a href="https://javascript.cm/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/640px-Javascript-736400_960_720.png" alt="JavaScript" width="40" height="40"/>
@@ -61,8 +61,6 @@ Scan me 😌
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
 </a>
   
-<img width="300" src="https://tenor.com/view/coding-gif-25183725" alt="gachezra" />
-  
 <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/gachezra">
@@ -85,5 +83,5 @@ Scan me 😌
   <a href="https://github.com/gachezra">
   <img alt="Ezra Kipkoech's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=gachezra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
-  
  
+ <img src="https://github.com/gachezra/gachezra/assets/71008423/2f2cb1c2-a96a-4fcf-9ff3-fcc5f9b6bee4" alt="gachezra" />
