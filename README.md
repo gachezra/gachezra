@@ -3,6 +3,7 @@
   <a href="https://github.com/gachezra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" /></a>
 </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gachezra" alt="gachezra" /></a> </p>
 <img width="250" align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
@@ -78,10 +79,5 @@ Scan me 😌
   <br/>
   
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
 
-  <a href="https://github.com/gachezra">
-  <img alt="Ezra Kipkoech's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=gachezra&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
- 
  <img src="https://github.com/gachezra/gachezra/assets/71008423/2f2cb1c2-a96a-4fcf-9ff3-fcc5f9b6bee4" alt="gachezra" />
