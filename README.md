@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [NikoKadi](https://www.github.com/gachezra/event).
 - 🌱 I’m currently learning [React](https://www.react.dev) and [Node.js](https://www.nodejs.org)
 - 💬 Ask me about **PHP**, **JavaScript**, **Android Studio**, **GitHub** and **WebDevelopment**
-- 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [Text me](https://wa.me/254727684727)
+- 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [WhatsApp me](https://wa.me/254727684727)
 - ⚡ Fun fact: I'm starting a **hosting** company
 
 
