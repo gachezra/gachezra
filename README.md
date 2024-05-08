@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ezra Kipkoech</h1>
 <p align="center">
   <a href="https://github.com/gachezra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" />
+  </a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gachezra" alt="gachezra" /></a> </p>
-<img width="250" align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<p align="right">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gachezra" alt="gachezra" />
+  </a>
+</p>
+<img width="250" align="center" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
 </p>
