@@ -9,7 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gachezra" alt="gachezra" />
   </a>
 </p>
-<img width="250" align="center" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
 </p>
