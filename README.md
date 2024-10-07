@@ -13,9 +13,10 @@
 <img src="https://komarev.com/ghpvc/?username=gachezra&label=Profile%20views&color=0e75b6&style=flat" alt="gachezra" />
 </p>
 
+- 💡 Founder: [NikoKadi](https://kadi.pexmon.one), [VarsityRank](https://varsityrank.pexmon.one) and [EventKick](https://eventkick,ke).
 - 🔭 I’m currently working on [NikoKadi](https://www.github.com/gachezra/event).
 - 🌱 I’m currently learning [React](https://www.react.dev) and [Node.js](https://www.nodejs.org)
-- 💬 Ask me about **PHP**, **JavaScript**, **Android Studio**, **GitHub** and **WebDevelopment**
+- 💬 Ask me about **PHP**, **React**, **React Native**, **Node js**, **Next js**, **Android Studio**, **GitHub** and **WebDevelopment**
 - 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [WhatsApp me](https://wa.me/254727684727)
 - ⚡ Fun fact: I'm starting a **hosting** company
 
