@@ -19,6 +19,7 @@
 - 💬 Ask me about **PHP**, **React**, **React Native**, **Node js**, **Next js**, **Android Studio**, **GitHub** and **WebDevelopment**
 - 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [WhatsApp me](https://wa.me/254727684727)
 - ⚡ Fun fact: I'm starting a **hosting** company
+- 💻 Have a look at my live projects on [Pexmon](https://pexmon.one).
 
 
 <h3 align="left">Connect with me:</h3>
