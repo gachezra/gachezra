@@ -14,7 +14,7 @@
 </p>
 
 - 💡 Founder: [NikoKadi](https://kadi.pexmon.one), [VarsityRank](https://varsityrank.pexmon.one) and [EventKick](https://eventkick,ke).
-- 🔭 I’m currently perfecting [NikoKadi](https://kadi.pexmon.one). Have a go at it.
+- 🔭 I’m currently perfecting the famous Kenyan multiplayer game [NikoKadi](https://kadi.pexmon.one). Have a go at it.
 - 🌱 I’m currently learning [React](https://www.react.dev) and [Node.js](https://www.nodejs.org)
 - 💬 Ask me about **PHP**, **React**, **React Native**, **Node js**, **Next js**, **Android Studio**, **GitHub** and **WebDevelopment**
 - 📫 How to reach me: [Email me](mailto::gachomoezra@gmail.com) or [WhatsApp me](https://wa.me/254727684727)
