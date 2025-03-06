@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezra Kipkoech</h1>
+<h1 align="center">Hi 👋, I'm GachEzra.</h1>
 <p align="center">
   <a href="https://github.com/gachezra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" />
