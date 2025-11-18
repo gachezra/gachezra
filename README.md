@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm GachEzra.</h1>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/b9ey16s07gxkcqysdfqi5njvp">
-    <img src="https://spot-lime-theta.vercel.app/now-playing.svg" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-
-<p align="center">
   <a href="https://github.com/gachezra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" />
   </a>
@@ -29,6 +22,12 @@
 - ⚡ Fun fact: I'm starting a **hosting** company
 - 💻 Have a look at my live projects on [Pexmon](https://pexmon.one).
 
+<h2 align="center">🎧 Now Playing</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/b9ey16s07gxkcqysdfqi5njvp">
+    <img src="https://spot-lime-theta.vercel.app/now-playing.svg" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
