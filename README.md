@@ -22,13 +22,6 @@
 - ⚡ Fun fact: I'm starting a **hosting** company
 - 💻 Have a look at my live projects on [Pexmon](https://pexmon.one).
 
-<h2 align="center">🎧 Now Playing</h2>
-<p align="center">
-  <a href="https://open.spotify.com/user/b9ey16s07gxkcqysdfqi5njvp">
-    <img src="https://spot-lime-theta.vercel.app/now-playing.svg" alt="Spotify Now Playing" />
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
